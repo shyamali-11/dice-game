@@ -1,0 +1,50 @@
+body{
+    background-color: #DDFFBC;
+}
+h1{
+    font-size: 8rem;
+    font-weight: normal;
+    color:#252B48;
+    text-align: center;
+    text-shadow:5px 1px rgb(182, 162, 162) ;
+    font-family: 'Barriecito', cursive;
+    margin-top:0;
+    margin-bottom:30px;
+  
+}
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  
+  
+}
+.dice{
+   
+    display: inline-block;
+    
+    width:30%;
+ 
+    margin:20px;
+}
+p{
+    font-size: 3rem;
+   
+    font-family: 'Passion One', cursive;
+    
+    text-align:center;
+    color:#379237;
+
+}
+.pic{
+   
+    margin:0 20%;
+}
+.foot-p{
+    color:#000D6B;
+    margin-top:3px;
+    font-size: 1rem;
+    font-weight:bold;
+    font-family: 'Caveat', cursive;
+    
+}
